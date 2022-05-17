@@ -5,17 +5,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-PedroBastosSantAna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/pedrobastossantana/))]([[https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/pedrobastossantana/)](https://www.linkedin.com/in/pedrobastossantana/))
 [![Gmail Badge](https://img.shields.io/badge/-pedrosan84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrosan84@gmail.com)](mailto:pedrosan84@gmail.com)  
 
-## About me
+## Sobre
 
-💻 &nbsp;Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios, em transição de carreira para a área de Ciência de Dados | Data Science. Aprendendo uma nova profissão, através do Data Science Degree da Let´s Code, e pronto para aplicar todo o aprendizado adquirido ao longo dos anos na área de Tecnologia | TI.  
+Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios, em transição de carreira para a área de Ciência de Dados | Data Science. Aprendendo uma nova profissão, através do Data Science Degree da Let´s Code, e pronto para aplicar todo o aprendizado adquirido ao longo dos anos na área de Tecnologia | TI.  
+
+
 🆙 &nbsp;Cerficado pela Microsoft Azure (Azure AI Fundamentals)  
-👨‍🏫 &nbsp;Estudante de Ciência de Dados | Data Science na Let´s Code  
-📊 &nbsp;Graduado em Comunicação Social - Publicidade e Propaganda | ESPM-RJ  
-📊 &nbsp;Pós Graduado em Gestão de Negócios | IBMEC-RJ  
+💻 &nbsp;Estudante de Ciência de Dados | Data Science na Let´s Code  
+💻 &nbsp;Graduado em Comunicação Social - Publicidade e Propaganda | ESPM-RJ  
+💻 &nbsp;Pós Graduado em Gestão de Negócios | IBMEC-RJ  
 
-## 🛠️ Skills
+## 🛠️ Competências
 
-⚡ &nbsp;Competências: Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Metodologia Agil | Redes Neurais | Azure AI Fundamentals
+Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Metodologia Agil | Redes Neurais | Azure AI Fundamentals
 
 ## Experiência Profissional
 
