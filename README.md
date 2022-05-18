@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=pedrobsantana&style=for-the-badge" alt="PedroBastosSantAna's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-PedroBastosSantAna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/pedrobastossantana/))]([[https://www.linkedin.com/in/walissonsilva/](https://www.linkedin.com/in/pedrobastossantana/)](https://www.linkedin.com/in/pedrobastossantana/))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-PedroBastosSantAna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrobastossantana/)](https://www.linkedin.com/in/pedrobastossantana/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrosan84@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrosan84@gmail.com)](mailto:pedrosan84@gmail.com)  
 
 ## Sobre
