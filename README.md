@@ -12,7 +12,7 @@
 Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios, em transição de carreira para a área de Ciência de Dados | Data Science. Aprendendo uma nova profissão, através do Data Science Degree da Let´s Code, e pronto para aplicar todo o aprendizado adquirido ao longo dos anos na área de Tecnologia | TI.  
 
 
-🆙 &nbsp;Cerficado pela Microsoft Azure (Azure AI Fundamentals)  
+🆙 &nbsp;Cerficado pela Microsoft Azure (DP-900: Azure Data Fundamentals | AI-900: Azure AI Fundamentals)  
 💻 &nbsp;Estudante de Ciência de Dados | Data Science na Let´s Code  
 💻 &nbsp;Graduado em Comunicação Social - Publicidade e Propaganda | ESPM-RJ  
 💻 &nbsp;Pós Graduado em Gestão de Negócios | IBMEC-RJ  
