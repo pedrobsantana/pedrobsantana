@@ -9,22 +9,27 @@
 
 ## Sobre
 
-Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios, em transição de carreira para a área de Ciência de Dados | Data Science. Aprendendo uma nova profissão, através do Data Science Degree da Let´s Code, e pronto para aplicar todo o aprendizado adquirido ao longo dos anos na área de Tecnologia | TI.  
+Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios. Apaixonado por Ciência de Dados e atuante na área através de competições do Kaggle e Hackathons.  
 
+## Formação
+ 
+📚 &nbsp;Data Science Degree | Let´s Code - SP  
+📚 &nbsp;Graduado em Comunicação Social - Publicidade e Propaganda | ESPM-RJ   
+📚 &nbsp;Pós Graduado em Gestão de Negócios | IBMEC-RJ   
 
-🆙 &nbsp;Certificado pela Microsoft Azure (DP-900: Azure Data Fundamentals | AI-900: Azure AI Fundamentals)  
-💻 &nbsp;Estudante de Ciência de Dados | Data Science na Let´s Code  
-💻 &nbsp;Graduado em Comunicação Social - Publicidade e Propaganda | ESPM-RJ  
-💻 &nbsp;Pós Graduado em Gestão de Negócios | IBMEC-RJ  
+## Certificações
+
+🏆 &nbsp;Microsoft Certified: Azure Data Fundamentals | DP-900   
+🏆 &nbsp;Microsoft Certified: Azure AI Fundamentals | AI-900   
 
 ## 🛠️ Competências
 
-Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Metodologia Agil | Redes Neurais | Azure AI Fundamentals
+Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Metodologia Agil | Redes Neurais | Azure   
 
 ## Experiência Profissional
 
-💻 &nbsp;[Dez/2015 - Presente] Desenvolvedor | Web | Marketing na Rupias - Sites & Marketing Digital  
-👨‍🏫 &nbsp;[Out/2013 - Abr/2016] OOH Media Planner na Posterscope Brasil  
-👨‍🏫 &nbsp;[Nov/2012 - Ago/2013] Coordenador de Mídia na Complô Comunicação  
-👨‍🏫 &nbsp;[Mar/2012 - Jul/2012] Consultor de Mídias Sociais na Tripys  
-👨‍🏫 &nbsp;[Nov/2009 - Ago/2011] Assessor de Negócios na Petróleo Ipiranga
+📊 &nbsp;[Dez/2015 - Presente] Desenvolvedor | Web | Marketing na Rupias - Sites & Marketing Digital  
+📊 &nbsp;[Out/2013 - Abr/2016] OOH Media Planner na Posterscope Brasil  
+📊 &nbsp;[Nov/2012 - Ago/2013] Coordenador de Mídia na Complô Comunicação  
+📊 &nbsp;[Mar/2012 - Jul/2012] Consultor de Mídias Sociais na Tripys  
+📊 &nbsp;[Nov/2009 - Ago/2011] Assessor de Negócios na Petróleo Ipiranga
