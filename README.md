@@ -23,7 +23,7 @@ Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | Powe
 
 ## Experiência Profissional
 
-💻 &nbsp;[Dez/2015 - Presente] Resolvedor de Problemas na Rupias - Sites & Marketing Digital  
+💻 &nbsp;[Dez/2015 - Presente] Desenvolvedor | Web | Marketing na Rupias - Sites & Marketing Digital  
 👨‍🏫 &nbsp;[Out/2013 - Abr/2016] OOH Media Planner na Posterscope Brasil  
 👨‍🏫 &nbsp;[Nov/2012 - Ago/2013] Coordenador de Mídia na Complô Comunicação  
 👨‍🏫 &nbsp;[Mar/2012 - Jul/2012] Consultor de Mídias Sociais na Tripys  
