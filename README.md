@@ -19,7 +19,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Certificações
 
-🏆 &nbsp;Microsoft Certified: Azure Fundamentals | AZ-900
+🏆 &nbsp;Microsoft Certified: Azure Fundamentals | AZ-900   
 🏆 &nbsp;Microsoft Certified: Azure Data Fundamentals | DP-900   
 🏆 &nbsp;Microsoft Certified: Azure AI Fundamentals | AI-900   
 
