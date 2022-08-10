@@ -19,6 +19,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Certificações
 
+🏆 &nbsp;Apache Airflow Certified   
 🏆 &nbsp;Academy Accreditation - Databricks Lakehouse Fundamentals   
 🏆 &nbsp;Microsoft Certified: Azure Fundamentals | AZ-900   
 🏆 &nbsp;Microsoft Certified: Azure Data Fundamentals | DP-900   
@@ -26,7 +27,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## 🛠️ Competências
 
-Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Metodologia Agil | Redes Neurais | Azure | Databricks   
+Lógica de Programação e POO | Python | SQL | DataViz | Spark | PySpark | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Metodologia Agil | Redes Neurais | Azure | Databricks | Apache Airflow   
 
 ## Experiência Profissional
 
