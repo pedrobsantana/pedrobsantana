@@ -13,7 +13,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Formação
  
-📚 &nbsp;Pi Data Science | Let´s Code - SP  
+📚 &nbsp;Pi Data Science | Let´s Code by Ada - SP  
 📚 &nbsp;Pós Graduado em Gestão de Negócios | IBMEC-RJ   
 📚 &nbsp;Graduado em Comunicação Social - Publicidade e Propaganda | ESPM-RJ   
 
