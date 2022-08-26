@@ -28,7 +28,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## 🛠️ Competências
 
-Lógica de Programação e POO | Python | SQL | Spark | DataViz | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Redes Neurais | Metodologia Agil|  Azure | AWS | Databricks | Apache Airflow  
+Lógica de Programação e POO | Python | SQL | Spark | DataViz | PowerBI | Estrutura de Dados | Bibliotecas e APIs | Estatística | Machine Learning | Banco de Dados | Big Data | Dados Não Estruturados | Modelos Produtivos | Redes Neurais | Metodologia Agil | Azure | AWS | Databricks | Apache Airflow  
 
 ## Experiência Profissional
 
