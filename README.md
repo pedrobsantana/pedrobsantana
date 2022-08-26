@@ -19,6 +19,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Certificações
 
+🏆 &nbsp;AWS Cloud Practitioner Certified   
 🏆 &nbsp;Astronomer Certification for Apache Airflow Fundamentals   
 🏆 &nbsp;Academy Accreditation - Databricks Lakehouse Fundamentals   
 🏆 &nbsp;Microsoft Certified: Azure Fundamentals | AZ-900   
