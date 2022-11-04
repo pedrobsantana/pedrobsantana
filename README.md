@@ -19,6 +19,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Certificações
 
+🏆 &nbsp;Databricks Certified Data Engineer Associate  
 🏆 &nbsp;AWS Certified Cloud Practitioner   
 🏆 &nbsp;Astronomer Certification for Apache Airflow Fundamentals   
 🏆 &nbsp;Academy Accreditation - Databricks Lakehouse Fundamentals   
@@ -32,7 +33,8 @@ Lógica de Programação e POO | Python | SQL | Spark | DataViz | PowerBI | Estr
 
 ## Experiência Profissional
 
-📊 &nbsp;[Dez/2015 - Presente] Desenvolvedor | Web | Marketing na Rupias - Sites & Marketing Digital  
+📊 &nbsp;[Set/2022 - Presente] Data Engineer na Darede  
+📊 &nbsp;[Dez/2015 - Set/2022] Desenvolvedor | Web | Marketing na Rupias - Sites & Marketing Digital  
 📊 &nbsp;[Out/2013 - Abr/2016] OOH Media Planner na Posterscope Brasil  
 📊 &nbsp;[Nov/2012 - Ago/2013] Coordenador de Mídia na Complô Comunicação  
 📊 &nbsp;[Mar/2012 - Jul/2012] Consultor de Mídias Sociais na Tripys  
