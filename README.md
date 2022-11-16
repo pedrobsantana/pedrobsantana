@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios. Apaixonado por Ciência de Dados e atuante na área através de competições do Kaggle e Hackathons.  
+Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios. Em transição de carreira para a área de Dados.
 
 ## Formação
  
@@ -22,6 +22,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 🏆 &nbsp;Databricks Certified Data Engineer Associate  
 🏆 &nbsp;AWS Certified Cloud Practitioner   
 🏆 &nbsp;Astronomer Certification for Apache Airflow Fundamentals   
+🏆 &nbsp;Academy Accreditation - Databricks Platform Administrator   
 🏆 &nbsp;Academy Accreditation - Databricks Lakehouse Fundamentals   
 🏆 &nbsp;Microsoft Certified: Azure Fundamentals | AZ-900   
 🏆 &nbsp;Microsoft Certified: Azure Data Fundamentals | DP-900   
