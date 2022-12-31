@@ -19,6 +19,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Certificações
 
+🏆 &nbsp;AWS Certified Developer Associate  
 🏆 &nbsp;Databricks Certified Data Engineer Associate  
 🏆 &nbsp;AWS Certified Cloud Practitioner   
 🏆 &nbsp;Astronomer Certification for Apache Airflow Fundamentals   
