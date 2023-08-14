@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Profissional com mais de 15 anos de experiência dedicados a resolução de problemas, nas áreas de Marketing e Gestão de Negócios. Em transição de carreira para a área de Dados.
+Atualmente trabalho como Administrador de Banco de Dados Júnior na Darede, focado em SQL e serviços da AWS.
 
 ## Formação
  
@@ -19,6 +19,7 @@ Profissional com mais de 15 anos de experiência dedicados a resolução de prob
 
 ## Certificações
 
+🏆 &nbsp;AWS Certified Database Specialty  
 🏆 &nbsp;AWS Certified Developer Associate  
 🏆 &nbsp;Databricks Certified Data Engineer Associate  
 🏆 &nbsp;AWS Certified Cloud Practitioner   
